@@ -1,4 +1,4 @@
-# Repositório usado na aula Preparatório para OBI (Modalidade Programação)
+# Repositório usado na aula Preparatório para Olimpíada Brasileira de Informática (Modalidade Programação)
  
 Usamos Notebook Jupyter em conjunto com Google Cobab
 
